@@ -1,0 +1,16 @@
+{
+    "type": "content",
+    "name": "Quartered Logs to Firewood",
+    "version": "1.1.0",
+    "description": "Allows player to chop 1 quartered log into 4 firewood.",
+    "modid": "tzquarteredfirewood",
+    "authors": [
+        "twizzork"
+    ],
+    "side": "Universal",
+    "requiredOnClient": true,
+    "requiredOnServer": true,
+    "dependencies": {
+        "game": "*"
+    }
+}

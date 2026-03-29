@@ -1,0 +1,13 @@
+v1.1.0
+remove version requirement. only break condition would be if the current system of content-type mods changed significantly
+
+v1.0.2
+fix domain (tzquartwood -> tzquarteredfirewood)
+
+v1.0.1
+update modicon
+update moddb page
+update url (/quarterlogs -> /tzquarteredfirewood)
+
+v1.0.0
+initial release

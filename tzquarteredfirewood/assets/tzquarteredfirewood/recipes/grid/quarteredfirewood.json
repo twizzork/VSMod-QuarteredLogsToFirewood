@@ -1,0 +1,22 @@
+{
+    "ingredientPattern": "A,Q",
+    "width": 1,
+    "height": 2,
+    "ingredients": {
+        "A": {
+            "type": "item",
+            "code": "game:axe-*",
+            "isTool": true,
+            "toolDurabilityCost": 1
+        },
+        "Q": {
+            "type": "block",
+            "code": "game:logquad-*"
+        }
+    },
+    "output": {
+        "type": "item",
+        "code": "game:firewood",
+        "quantity": 4
+    }
+}
