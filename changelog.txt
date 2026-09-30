@@ -1,3 +1,6 @@
+v2.0.0
+changed functionality of mod to return 4 firewood if the block is "fresh"/normal wood, and 2 firewood if it is aged wood
+
 v1.1.0
 remove version requirement. only break condition would be if the current system of content-type mods changed significantly
 

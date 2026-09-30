@@ -1,8 +1,8 @@
 {
     "type": "content",
     "name": "Quartered Logs to Firewood",
-    "version": "1.1.0",
-    "description": "Allows player to chop 1 quartered log into 4 firewood.",
+    "version": "2.0.0",
+    "description": "Allows player to chop 1 quartered log block (log, corner, etc.) into 4 firewood (regular wood) or 2 firewood (aged wood)",
     "modid": "tzquarteredfirewood",
     "authors": [
         "twizzork"

@@ -1,6 +1,6 @@
 # twizzork's Quartered Logs to Firewood
 
-This is a small recipe mod for Vintage Story that allows the user to chop up 1 quartered log into 4 firewood.
+This is a small recipe mod for Vintage Story that allows the user to chop up 1 quartered log block type (logs, corners, etc) into either 4 firewood ("fresh"/regular) or 2 firewood (aged).
 
 ## Install
 
